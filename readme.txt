@@ -1,0 +1,6 @@
+ls
+
+test
+
+ls
+^kx
